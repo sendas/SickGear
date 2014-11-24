@@ -6,6 +6,7 @@
 * Add ability to auto focus Search Show box on Home page and control this option via General Config/Interface
 * Add TVRage network name standardization
 * Change some provider images. Add a few new images
+* Add startup-scripts folder and move start scripts into it
 
 [develop changelog]
 
